@@ -1,0 +1,17 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+                       
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
+erwork --depend=.\objects\assembly_practice.d -o.\objects\assembly_practice.o -
+I.\RTE\Device\STM32F411VETx -I.\RTE\_stm32f4 -IC:\Users\Yasser\AppData\Local\Ar
+m\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include -IC:\Users\Yasser\AppData\Local\Arm\
+Packs\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include -IC:\
+Users\Yasser\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.13.0\Drivers\STM32F4x
+x_HAL_Driver\Inc --predefine="__EVAL SETA 1" --predefine="__UVISION_VERSION SET
+A 527" --predefine="_RTE_ SETA 1" --predefine="STM32F411xE SETA 1" --list=.\lis
+tings\assembly_practice.lst assembly_practice.s
+334 symbols in table
